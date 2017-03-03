@@ -7,6 +7,7 @@ namespace BEEEEP
         static void Main(string[] args)
         {
             Console.Beep();
+            Console.WriteLine("test");
         }
     }
 }
